@@ -1,0 +1,7 @@
+.banner {
+  color: white;
+  object-fit: contain;
+  height: 448px;
+  background-position: top center;
+  background-size: cover;
+}
